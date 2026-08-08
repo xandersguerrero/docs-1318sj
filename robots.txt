@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-gf177t.altogel21lel.cfd/sitemap.xml
